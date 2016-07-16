@@ -1,0 +1,6 @@
+:local(.main) {
+    color: red;
+    background-image: url('./home.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
