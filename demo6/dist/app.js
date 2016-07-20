@@ -545,13 +545,13 @@ webpackJsonp([0],{
 	    id: 'about',
 	    title: 'About',
 	    href: '#about',
-	    load: __webpack_require__(186)
+	    load: __webpack_require__(187)
 	  },
 	  contact: {
 	    id: 'contact',
 	    title: 'Contact Us',
 	    href: '#contact',
-	    load: __webpack_require__(191)
+	    load: __webpack_require__(194)
 	  }
 	};
 
@@ -568,23 +568,23 @@ webpackJsonp([0],{
 
 /***/ },
 
-/***/ 186:
+/***/ 187:
 /***/ function(module, exports, __webpack_require__) {
 
 	module.exports = function(cb) {
 		__webpack_require__.e/* nsure */(2, function(require) {
-			cb(__webpack_require__(187));
+			cb(__webpack_require__(188));
 		});
 	}
 
 /***/ },
 
-/***/ 191:
+/***/ 194:
 /***/ function(module, exports, __webpack_require__) {
 
 	module.exports = function(cb) {
 		__webpack_require__.e/* nsure */(3, function(require) {
-			cb(__webpack_require__(192));
+			cb(__webpack_require__(195));
 		});
 	}
 
